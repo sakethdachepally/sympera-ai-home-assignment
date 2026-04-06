@@ -1,0 +1,21 @@
+date,description,category,amount,type
+3/1/2026,Client Payment - Project Alpha,Revenue,"$45,000 ",Credit
+3/2/2026,Vendor: Intermountain Lumber,Inventory,"($12,000)",Debit
+3/4/2026,Payroll Service,Operations,"($8,500)",Debit
+3/5/2026,Client Payment - Project Beta,Revenue,"$22,000 ",Credit
+3/8/2026,Lease Payment - Excavator,Equipment,"($2,200)",Debit
+3/10/2026,Gas & Fuel,Operations,($600),Debit
+3/12/2026,Vendor: Steel Supply Co,Inventory,"($4,000)",Debit
+3/15/2026,Client Payment - Deposit,Revenue,"$15,000 ",Credit
+3/18/2026,Software Subscription (AutoCAD),Tech/Growth,($150),Debit
+3/20/2026,Marketing - Local SEO,Tech/Growth,($500),Debit
+3/22/2026,Bonus Interest Earned,Interest,$120 ,Credit
+3/23/2026,Vendor: Intermountain Lumber,Inventory,"($11,000)",Debit
+3/25/2026,Payroll Service,Operations,"($8,500)",Debit
+3/26/2026,Internal Transfer to Savings,Savings,"($5,000)",Debit
+3/27/2026,Client Payment - Project Gamma,Revenue,"$30,000 ",Credit
+3/28/2026,Site Permit Fees,Operations,($450),Debit
+3/29/2026,Vendor: Steel Supply Co,Inventory,"($3,800)",Debit
+3/30/2026,Tool Repair,Operations,($300),Debit
+3/31/2026,Utility Bill,Operations,($400),Debit
+3/31/2026,New Equipment Downpayment,Growth,"($10,000)",Debit

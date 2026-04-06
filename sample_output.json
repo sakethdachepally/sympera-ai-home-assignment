@@ -1,0 +1,30 @@
+{
+  "company": "Elite Builds LLC",
+  "industry": "Construction",
+  "market_context": {
+    "material_cost_inflation": "15%",
+    "sector_margin": "4%",
+    "credit_tightening_trigger": "High Expense Velocity"
+  },
+  "financial_summary": {
+    "total_revenue": 112000.0,
+    "net_cash_flow": 44720.0,
+    "inventory_spend": 30800.0,
+    "growth_spend": 10650.0,
+    "savings_transfer": 5000.0
+  },
+  "positive_signals": [
+    {
+      "name": "Margin Resilience",
+      "description": "Despite 15% industry material inflation and sector margins falling to 4%, Elite Builds generated strong positive net cash flow and recurring client payments."
+    },
+    {
+      "name": "Strategic Growth Discipline",
+      "description": "The company transferred cash to savings and invested in technology and new equipment, indicating controlled expansion rather than financial stress."
+    }
+  ],
+  "rm_recommendation": {
+    "product": "Working Capital Line of Credit",
+    "reason": "Helps support growth projects and manage inventory volatility while preserving strong liquidity."
+  }
+}
